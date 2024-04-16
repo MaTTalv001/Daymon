@@ -21,4 +21,4 @@ RUNTEQミニアプリWeek用に開発する簡易アプリ。ユーザーが今�
 - React (Verselへのデプロイが手軽なため。また、滑らかなカードバトルを実現するため)
 - Versel (デプロイが簡便であるため)
 - OpenAI API(ゲームの肝)
-- WebSocket(リアルタイム対戦機能)
+- WebSocket(リアルタイム対戦)
